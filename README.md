@@ -144,7 +144,7 @@ repo:   link below ↓
 
 <div align="center">
 
-`connect →` [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:YOUR_EMAIL)
+`connect →` [LinkedIn](https://www.linkedin.com/in/engrsyedhuzafa/) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:engr.syed.huzafa.ali)
 
 <sub>this README rebuilds itself less often than my RAG pipeline does</sub>
 
