@@ -1,12 +1,139 @@
-- 👋 Hi, I’m @EngrSyedHuzafa
-- 👀 I’m interested in Ai, ML and Web Technology
-- 🌱 I’m currently learning Computer Science
-- 💞️ I’m looking to collaborate on Projects
-- 📫 How to reach me: via email at engr.syed.huzafa.ali@gmail.com, or connect with me on LinkedIn www.linkedin.com/in/engrsyedhuzafa
-- 😄 Pronouns: He
-- ⚡ Fun fact: hmm
+<div align="center">
 
-<!---
-EngrSyedHuzafa/EngrSyedHuzafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Huzafa;decoding+language+models...;RAG+%2B+LangChain+%2B+LangGraph;building+AI+Decode+Lab" alt="Typing SVG" />
+
+<br>
+
+`root@syed:~$` building retrieval systems that don't hallucinate on you
+
+<br>
+
+[![Instagram](https://img.shields.io/badge/AI_Decode_Lab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ai_decode_lab)
+[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=39FF14&labelColor=0D1117)](https://github.com/YOUR_USERNAME)
+
+</div>
+
+<br>
+
+## `> whoami`
+
+```
+AI/ML Engineer-in-training. I take messy retrieval pipelines and make them
+precise, fast, and cheap. Currently obsessed with cutting token waste out
+of RAG systems without cutting answer quality.
+
+Also running AI Decode Lab — curating the AI news and tools worth your
+time, so you don't have to sort through the noise yourself.
+```
+
+<br>
+
+## `> stack --list`
+
+<table>
+<tr>
+<td valign="top" width="33%">
+
+**Core**
+```
+Python
+FastAPI
+Docker
+```
+
+</td>
+<td valign="top" width="33%">
+
+**LLM / Retrieval**
+```
+LangChain
+LangGraph
+FAISS
+Pinecone
+```
+
+</td>
+<td valign="top" width="33%">
+
+**Tooling**
+```
+Git
+VS Code
+Linux
+```
+
+</td>
+</tr>
+</table>
+
+<br>
+
+## `> cat featured_project.md`
+
+<table>
+<tr>
+<td width="70%">
+
+**RAG Pipeline — Precision-Tuned Retrieval**
+
+Rebuilt a standard RAG pipeline to cut irrelevant context before it ever
+reaches the model. Focused on two numbers that actually matter in
+production: retrieval precision and token spend per query.
+
+`→` measurable precision gain over baseline retrieval
+`→` meaningful token reduction per query at the same answer quality
+
+</td>
+<td valign="top" width="30%">
+
+```
+status: shipped
+stack:  LangChain
+        FAISS
+        FastAPI
+repo:   link below ↓
+```
+
+</td>
+</tr>
+</table>
+
+<div align="left">
+
+[![View Repo](https://img.shields.io/badge/→_view_repository-39FF14?style=flat-square&labelColor=0D1117)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+
+</div>
+
+<br>
+
+## `> git log --stats`
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=transparent&title_color=39FF14&text_color=c9d1d9&icon_color=39FF14&border_color=39FF14&hide_border=false&bg_color=00000000" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false&bg_color=00000000" height="165"/>
+
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
+
+</div>
+
+<br>
+
+## `> currently`
+
+```diff
++ shipping: cleaner RAG evaluation workflows
++ reading:  papers on LLM eval frameworks
++ curating: AI news + tool breakdowns @ai_decode_lab
++ open to:  AI/ML Engineer roles — let's talk
+```
+
+<br>
+
+<div align="center">
+
+`connect →` [LinkedIn](https://linkedin.com/in/YOUR_LINKEDIN) · [Instagram](https://instagram.com/ai_decode_lab) · [Email](mailto:YOUR_EMAIL)
+
+<sub>this README rebuilds itself less often than my RAG pipeline does</sub>
+
+</div>
