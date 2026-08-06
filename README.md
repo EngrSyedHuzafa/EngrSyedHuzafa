@@ -8,20 +8,18 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117)
-![PyTorch](https://img.shields.io/badge/PyTorch-39FF14?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0D1117)
-![LangChain](https://img.shields.io/badge/LangChain-39FF14?style=for-the-badge&logo=langchain&logoColor=black&labelColor=0D1117)
-![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0D1117)
-![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=black&labelColor=0D1117)
-![OpenAI](https://img.shields.io/badge/OpenAI-39FF14?style=for-the-badge&logo=openai&logoColor=black&labelColor=0D1117)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-39FF14?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
-![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0D1117)
+![Python](https://img.shields.io/badge/Python-1E3A5F?style=for-the-badge&logo=python&logoColor=58A6FF)
+![PyTorch](https://img.shields.io/badge/PyTorch-1E3A5F?style=for-the-badge&logo=pytorch&logoColor=58A6FF)
+![FastAPI](https://img.shields.io/badge/FastAPI-1E3A5F?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
+![Docker](https://img.shields.io/badge/Docker-1E3A5F?style=for-the-badge&logo=docker&logoColor=58A6FF)
+![OpenAI](https://img.shields.io/badge/OpenAI-1E3A5F?style=for-the-badge&logo=openai&logoColor=58A6FF)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-1E3A5F?style=for-the-badge&logo=huggingface&logoColor=58A6FF)
+![NumPy](https://img.shields.io/badge/NumPy-1E3A5F?style=for-the-badge&logo=numpy&logoColor=58A6FF)
 <br>
-![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=black&labelColor=0D1117)
-![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
-![VS Code](https://img.shields.io/badge/VS_Code-39FF14?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=0D1117)
-![Jupyter](https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D1117)
-</div>
+![Git](https://img.shields.io/badge/Git-1E3A5F?style=for-the-badge&logo=git&logoColor=58A6FF)
+![Linux](https://img.shields.io/badge/Linux-1E3A5F?style=for-the-badge&logo=linux&logoColor=58A6FF)
+![VS Code](https://img.shields.io/badge/VS_Code-1E3A5F?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
+![Jupyter](https://img.shields.io/badge/Jupyter-1E3A5F?style=for-the-badge&logo=jupyter&logoColor=58A6FF)
 
 <br>
 
