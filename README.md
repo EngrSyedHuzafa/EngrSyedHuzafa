@@ -114,7 +114,7 @@ repo:   link below ↓
 
 <div align="left">
 
-[![View Repo](https://img.shields.io/badge/→_view_repository-24F296?style=flat-square&labelColor=24F296)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![View Repo](https://img.shields.io/badge/→_view_repository-000000?style=flat-square&labelColor=000000)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 </div>
 
