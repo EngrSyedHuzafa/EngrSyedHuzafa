@@ -124,7 +124,7 @@ repo:   link below ↓
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=transparent&title_color=39FF14&text_color=c9d1d9&border_color=39FF14&hide_border=false&bg_color=00000000" height="165"/>
+
 <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
 
 </div>
