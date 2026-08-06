@@ -8,9 +8,19 @@
 
 <br>
 
-[![Instagram](https://img.shields.io/badge/AI_Decode_Lab-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ai_decode_lab)
-[![GitHub followers](https://img.shields.io/github/followers/YOUR_USERNAME?style=for-the-badge&color=39FF14&labelColor=0D1117)](https://github.com/YOUR_USERNAME)
-
+![Python](https://img.shields.io/badge/Python-39FF14?style=for-the-badge&logo=python&logoColor=black&labelColor=0D1117)
+![PyTorch](https://img.shields.io/badge/PyTorch-39FF14?style=for-the-badge&logo=pytorch&logoColor=black&labelColor=0D1117)
+![LangChain](https://img.shields.io/badge/LangChain-39FF14?style=for-the-badge&logo=langchain&logoColor=black&labelColor=0D1117)
+![FastAPI](https://img.shields.io/badge/FastAPI-39FF14?style=for-the-badge&logo=fastapi&logoColor=black&labelColor=0D1117)
+![Docker](https://img.shields.io/badge/Docker-39FF14?style=for-the-badge&logo=docker&logoColor=black&labelColor=0D1117)
+![OpenAI](https://img.shields.io/badge/OpenAI-39FF14?style=for-the-badge&logo=openai&logoColor=black&labelColor=0D1117)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-39FF14?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=0D1117)
+![NumPy](https://img.shields.io/badge/NumPy-39FF14?style=for-the-badge&logo=numpy&logoColor=black&labelColor=0D1117)
+<br>
+![Git](https://img.shields.io/badge/Git-39FF14?style=for-the-badge&logo=git&logoColor=black&labelColor=0D1117)
+![Linux](https://img.shields.io/badge/Linux-39FF14?style=for-the-badge&logo=linux&logoColor=black&labelColor=0D1117)
+![VS Code](https://img.shields.io/badge/VS_Code-39FF14?style=for-the-badge&logo=visualstudiocode&logoColor=black&labelColor=0D1117)
+![Jupyter](https://img.shields.io/badge/Jupyter-39FF14?style=for-the-badge&logo=jupyter&logoColor=black&labelColor=0D1117)
 </div>
 
 <br>
