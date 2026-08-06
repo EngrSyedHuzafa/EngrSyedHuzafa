@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Huzafa;decoding+language+models...;RAG+%2B+LangChain+%2B+LangGraph;building+AI+Decode+Lab" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=26&duration=2500&pause=800&color=39FF14&center=true&vCenter=true&width=650&lines=Hi%2C+I'm+Syed+Huzafa;decoding+language+models...;Agent+%2B+RAG+%2B+LangChain+%2B+LangGraph" alt="Typing SVG" />
 
 <br>
 
