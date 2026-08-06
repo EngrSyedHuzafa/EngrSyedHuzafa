@@ -29,14 +29,16 @@
 
 ## `> whoami`
 
-```
-AI/ML Engineer-in-training. I take messy retrieval pipelines and make them
-precise, fast, and cheap. Currently obsessed with cutting token waste out
+<div align="center">
+
+AI/ML Engineer-in-training. I take messy retrieval pipelines and make them<br>
+precise, fast, and cheap. Currently obsessed with cutting token waste out<br>
 of RAG systems without cutting answer quality.
 
-Also running AI Decode Lab — curating the AI news and tools worth your
+Also running AI Decode Lab — curating the AI news and tools worth your<br>
 time, so you don't have to sort through the noise yourself.
-```
+
+</div>
 
 <br>
 
