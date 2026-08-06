@@ -114,7 +114,7 @@ repo:   link below ↓
 
 <div align="left">
 
-[![`Viewrepo →`]](https://github.com/YOUR_USERNAME/YOUR_REPO)
+`Viewrepo →`[![link]](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 </div>
 
