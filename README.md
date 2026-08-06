@@ -114,7 +114,7 @@ repo:   link below ↓
 
 <div align="left">
 
-[![View Repo](https://img.shields.io/badge/→_view_repository-39FF14?style=flat-square&labelColor=0D1117)](https://github.com/YOUR_USERNAME/YOUR_REPO)
+[![View Repo](https://img.shields.io/badge/→_view_repository-39FF14?style=flat-square&labelColor=24F296)](https://github.com/YOUR_USERNAME/YOUR_REPO)
 
 </div>
 
@@ -125,7 +125,7 @@ repo:   link below ↓
 <div align="center">
 
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=39FF14&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&hide_border=true&background=00000000&ring=24F296&fire=39FF14&currStreakLabel=39FF14&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=c9d1d9" height="165"/>
 
 </div>
 
