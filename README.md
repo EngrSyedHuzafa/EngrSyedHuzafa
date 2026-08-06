@@ -8,18 +8,20 @@
 
 <br>
 
-![Python](https://img.shields.io/badge/Python-1E3A5F?style=for-the-badge&logo=python&logoColor=58A6FF)
-![PyTorch](https://img.shields.io/badge/PyTorch-1E3A5F?style=for-the-badge&logo=pytorch&logoColor=58A6FF)
-![FastAPI](https://img.shields.io/badge/FastAPI-1E3A5F?style=for-the-badge&logo=fastapi&logoColor=58A6FF)
-![Docker](https://img.shields.io/badge/Docker-1E3A5F?style=for-the-badge&logo=docker&logoColor=58A6FF)
-![OpenAI](https://img.shields.io/badge/OpenAI-1E3A5F?style=for-the-badge&logo=openai&logoColor=58A6FF)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-1E3A5F?style=for-the-badge&logo=huggingface&logoColor=58A6FF)
-![NumPy](https://img.shields.io/badge/NumPy-1E3A5F?style=for-the-badge&logo=numpy&logoColor=58A6FF)
-<br>
-![Git](https://img.shields.io/badge/Git-1E3A5F?style=for-the-badge&logo=git&logoColor=58A6FF)
-![Linux](https://img.shields.io/badge/Linux-1E3A5F?style=for-the-badge&logo=linux&logoColor=58A6FF)
-![VS Code](https://img.shields.io/badge/VS_Code-1E3A5F?style=for-the-badge&logo=visualstudiocode&logoColor=58A6FF)
-![Jupyter](https://img.shields.io/badge/Jupyter-1E3A5F?style=for-the-badge&logo=jupyter&logoColor=58A6FF)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white)
+![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
 
 <br>
 
