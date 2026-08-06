@@ -134,14 +134,14 @@ repo:   link below ↓
 <br>
 
 ## `> currently`
-
+<div align="center">
 ```diff
 + shipping: cleaner RAG evaluation workflows
 + reading:  papers on LLM eval frameworks
 + curating: AI news + tool breakdowns @ai_decode_lab
 + open to:  AI/ML Engineer roles — let's talk
 ```
-
+</div>
 <br>
 
 <div align="center">
